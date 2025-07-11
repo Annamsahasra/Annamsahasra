@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I’m a AIML student with a keen interest in Generative AI, LLMs, and the art of crafting effective prompts. I enjoy exploring how we can make machines understand and create language that feels natural and meaningful.<br><br>🧠 Currently diving into:<br><br>Generative AI models & prompt engineering<br><br>Python, machine learning frameworks, and building smart solutions<br><br><br>💼 What I aim for:<br><br>Collaborating on projects that challenge and grow my skills<br><br>Contributing to innovative ideas that make tech more human-centric<br><br><br>📈 Always eager to learn, connect, and turn ideas into impactful projects.
+Hi there 👋 I’m sahasra, a AIML student with a keen interest in Generative AI, LLMs, and the art of crafting effective prompts. I enjoy exploring how we can make machines understand and create language that feels natural and meaningful.<br><br>🧠 Currently diving into:<br><br>Generative AI models & prompt engineering<br><br>Python, machine learning frameworks, and building smart solutions<br><br><br>💼 What I aim for:<br><br>Collaborating on projects that challenge and grow my skills<br><br>Contributing to innovative ideas that make tech more human-centric<br><br><br>📈 Always eager to learn, connect, and turn ideas into impactful projects.
 
 
 ## 🌐 Socials:
